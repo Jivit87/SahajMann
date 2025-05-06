@@ -144,21 +144,7 @@ export default function AboutTeam() {
           </p>
         </div>
 
-        {/* Contact */}
-        <div className="mt-16 text-center">
-          <h2 className="text-2xl font-semibold text-gray-900 mb-4">
-            Contact Us
-          </h2>
-          <p className="text-gray-600 mb-6">
-            Have questions about our project or interested in collaboration?
-          </p>
-          <a
-            href="mailto:team@fstemh.org"
-            className="inline-flex items-center px-6 py-3 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 transition-all duration-200"
-          >
-            Contact Our Team
-          </a>
-        </div>
+        
 
         {/* Back to Home Button */}
         <div className="mt-12 text-center pb-8">
